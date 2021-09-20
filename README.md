@@ -1,4 +1,4 @@
-# tasks_app
+# TASKS APP
 Tasks app that you can add tasks and manage to tasks done or archived or delete it.
 
 ## Technologies
