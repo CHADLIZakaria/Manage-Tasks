@@ -1,5 +1,5 @@
 # TASKS APP
-Tasks app that you can add tasks and manage to tasks done or archived or delete it.
+Tasks app that you can add new tasks and manage to tasks done or archived or you can delete it.
 
 ## Technologies
 Using flutter with sqflite and for state management bloc.
