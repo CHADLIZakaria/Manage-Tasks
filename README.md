@@ -1,6 +1,8 @@
 # tasks_app
+Tasks app that you can add tasks and manage to tasks done or archived or delete it.
 
-A new Flutter project.
+## Technologies
+Using flutter with sqflite and for state management bloc.
 
 ## Getting Started
 
